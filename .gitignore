@@ -1,1 +1,3 @@
 CPTemplate.java
+*.class
+!spec/*.class
